@@ -2,7 +2,7 @@ import requests
 import telebot
 
 TOKEN = "7225625963:AAHN6T7KLshjsX5R-v_6ZY_Q7Zvpx2NmoDQ"
-ROUTER_IP = "10.0.0.10"  # Наприклад, 93.184.216.34
+ROUTER_IP = "myrouterxiaomi.ddns.net"  # Наприклад, 93.184.216.34
 
 # Створюємо екземпляр бота
 bot = telebot.TeleBot(TOKEN)
