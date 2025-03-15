@@ -2,7 +2,7 @@ import requests
 import telebot
 
 TOKEN = "7225625963:AAHN6T7KLshjsX5R-v_6ZY_Q7Zvpx2NmoDQ"
-ROUTER_IP = "192.168.31.1"  # IP роутера в локальній мережі
+ROUTER_IP = "37.53.93.0"  # IP роутера в локальній мережі
 
 # Створюємо екземпляр бота
 bot = telebot.TeleBot(TOKEN)
