@@ -8,7 +8,7 @@ from aiogram.types import Message
 # Вкажіть свій токен
 TOKEN = "7225625963:AAHN6T7KLshjsX5R-v_6ZY_Q7Zvpx2NmoDQ"
 # IP-адреса або домен роутера
-ROUTER_IP = "https://myrouterxiaomi.ddns.net"
+ROUTER_IP = "37.53.93.0"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
