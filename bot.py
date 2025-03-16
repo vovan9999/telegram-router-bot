@@ -6,7 +6,7 @@ from aiogram.filters import Command  # Оновлений імпорт для ф
 from aiogram.types import Message
 
 # Вкажіть свій токен
-TOKEN = "7225625963:AAHN6T7KLshjsX5R-v_6ZY_Q7Zvpx2NmoDQ"
+TOKEN = "https://myrouterxiaomi.ddns.net"
 # IP-адреса або домен роутера
 ROUTER_IP = "192.168.31.1"
 
